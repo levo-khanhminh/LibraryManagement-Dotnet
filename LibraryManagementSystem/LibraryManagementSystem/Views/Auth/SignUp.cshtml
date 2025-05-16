@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "_layout";
+}
+
+<div class="login-container">
+
+  <div class="card register-card shadow-sm p-4">
+    <h3 class="fw-bold">Đăng ký</h3>
+    <p class="text-muted">Welcome to us! Please enter your details.</p>
+
+    <form>
+      <div class="mb-3">
+        <input type="text" class="form-control" placeholder="Họ và tên *">
+      </div>
+      <div class="mb-3">
+        <input type="email" class="form-control" placeholder="E-mail *">
+      </div>
+      <div class="mb-3 position-relative">
+        <input type="password" class="form-control" placeholder="Mật khẩu *">
+        <span class="position-absolute top-50 end-0 translate-middle-y pe-3 text-secondary" style="cursor:pointer;">
+          👁️
+        </span>
+      </div>
+      <div class="mb-3 position-relative">
+        <input type="password" class="form-control" placeholder="Xác nhận mật khẩu *">
+        <span class="position-absolute top-50 end-0 translate-middle-y pe-3 text-secondary" style="cursor:pointer;">
+          👁️
+        </span>
+      </div>
+
+      <div class="form-check mb-3">
+        <input class="form-check-input" type="checkbox" id="agreeTerms">
+        <label class="form-check-label" for="agreeTerms">
+          Tôi đã đọc <a href="#" class="text-primary">quy định</a>
+        </label>
+      </div>
+
+      <div class="d-grid mb-3">
+        <button type="submit" class="btn btn-primary rounded-pill">Đăng ký</button>
+      </div>
+
+      <p class="text-center">
+        Bạn đã là thành viên? <a href="#" class="text-primary">Đăng nhập ngay!</a>
+      </p>
+    </form>
+  </div>
+
+</div>

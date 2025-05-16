@@ -1,0 +1,167 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="carousel-container">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            
+            @foreach(var c in @ViewBag.Carousels)
+            {
+                
+                <div class="carousel-item @( c.Order == 1 ? "active" : "")">
+                    <img src="@c.ImageUrl" class="d-block w-100" alt="...">
+                </div>
+            }
+            @* <div class="carousel-item active"> *@
+            @*     <img src="https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="d-block w-100" alt="..."> *@
+            @* </div> *@
+            @* <div class="carousel-item"> *@
+            @*     <img src="https://images.pexels.com/photos/256431/pexels-photo-256431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="d-block w-100" alt="..."> *@
+            @* </div> *@    
+            @* <div class="carousel-item"> *@
+            @*     <img src="https://images.pexels.com/photos/6550114/pexels-photo-6550114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="d-block w-100" alt="..."> *@
+            @* *@
+            @* </div> *@
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<div class="w-100">
+    <div class="title">
+        <h1>REFERENCE BOOKS ( SECONDARY SCHOOL)</h1>
+    </div>
+    <div class="row w-100 mt-4">
+        @*@foreach(var book in ViewBag.Books)
+            {
+              <div class="col-md-2 mr-4">
+                 <a  asp-controller="Book" asp-action="Detail" asp-route-id="@book.Id" class="card-link">
+                     <div class="card book-card" style="width: 100%;">
+                         <img src="@book.ImageUrl" class="card-img-top" alt="...">
+                         <div class="card-body">
+                             <h5 class="card-title">@book.Title</h5>
+                             <p class="card-text mb-2">@book.Author </p>
+                             <a class="btn btn-success">Đọc sách online</a>
+                         </div>
+                     </div>
+                 </a>
+               </div>
+            }
+            *@
+    </div>
+        @*<div class="col-md-2 mr-4">
+            <a asp-controller="Home"  asp-action="Detail" class="card-link">
+                <div class="card" style="width: 100%;">
+                    <img src="/images/educated-book.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-success">Đọc sách online</a>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width: 100%;">
+                <img src="~/images/parallelworlds-book.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width:100%;">
+                <img src="/images/ThreeMustkeeters.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width: 100%;">
+                <img src="~/images/thebookthief-book.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width: 100%;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsYSpZgK2S_CWi3QKMaoV3Y9lXHirhRRxiA&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width:100%;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsYSpZgK2S_CWi3QKMaoV3Y9lXHirhRRxiA&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>*@
+    @*<div class="row w-100 mt-4">
+        <div class="col-md-2 mr-4">
+            <div class="card" style="width: 100%;">
+                <img src="/images/educated-book.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width: 100%;">
+                <img src="~/images/parallelworlds-book.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="card" style="width:100%;">
+                <img src="/images/ThreeMustkeeters.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-success">Đọc sách online</a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+*@
+</div>

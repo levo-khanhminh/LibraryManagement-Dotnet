@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\js\\app.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\js\\app.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\compilerconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:compilerconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\css\\styles.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\css\\styles.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\khanh minh\\documents\\github\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{223AEFC6-0E12-4978-BE12-28A6CF49E9CF}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tabler-icons.css",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T10:54:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:50:30.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "styles.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\styles.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\styles.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\styles.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\styles.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:31:44.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "styles.min.css.map",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T10:31:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_sidebar.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_sidebar.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:31:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_layouts.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_layouts.scss",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:31:09.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T10:26:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.Development.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T10:25:50.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "styles.min.css",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\css\\styles.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T10:20:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAmwOYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:03:48.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sidebarmenu.js",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\sidebarmenu.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:29:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.min.js",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\app.min.js",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\app.min.js",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\app.min.js",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\app.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:29:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\dashboard.js",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\js\\dashboard.js",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:28:58.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_dashboard1.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\pages\\_dashboard1.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T09:27:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:19:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:19:09.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:17:54.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:14:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAO8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T09:09:37.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_theme-variables.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_theme-variables.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:55:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_icon-size.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\utilities\\_icon-size.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:58:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_header.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\layouts\\_header.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T09:49:29.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_variables.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\variables\\_variables.scss",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAiwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:54:32.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_card.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_card.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:54:42.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_reboot.scss",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss",
+              "RelativeToolTip": "LibraryManagementSystem\\wwwroot\\admin\\assets\\scss\\component\\_reboot.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-15T10:54:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:04:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T09:03:54.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "compilerconfig.json",
+              "DocumentMoniker": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\compilerconfig.json",
+              "RelativeDocumentMoniker": "compilerconfig.json",
+              "ToolTip": "C:\\Users\\KHANH MINH\\Documents\\GitHub\\LibraryManagementSystem\\LibraryManagementSystem\\compilerconfig.json",
+              "RelativeToolTip": "compilerconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T10:38:10.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

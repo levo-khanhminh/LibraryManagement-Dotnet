@@ -1,0 +1,87 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_AdminLayout";
+}
+
+
+
+<h2 class="mb-4">Book Management</h2>
+
+<!-- Add Book Button -->
+<button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#bookModal">
+    Add Book
+</button>
+
+<!-- Book Table -->
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Published Date</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!-- Example row -->
+    <tr>
+        <td>1</td>
+        <td>The Great Gatsby</td>
+        <td>F. Scott Fitzgerald</td>
+        <td>Novel</td>
+        <td>1925</td>
+        <td>
+            <button class="btn btn-sm btn-warning me-1">Edit</button>
+            <button class="btn btn-sm btn-danger">Delete</button>
+        </td>
+    </tr>
+    <!-- More rows can go here -->
+    </tbody>
+</table>
+
+
+<div class="modal fade" id="bookModal" tabindex="-1" aria-labelledby="bookModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <form class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="bookModalLabel">Add New Book</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="bookTitle" class="form-label">Title</label>
+                    <input type="text" class="form-control" id="bookTitle" required>
+                </div>
+                <div class="mb-3">
+                    <label for="bookAuthor" class="form-label">Author</label>
+                    <input type="text" class="form-control" id="bookAuthor" required>
+                </div>
+                <div class="mb-3">
+                    <label for="bookGenre" class="form-label">Genre</label>
+                    <input type="text" class="form-control" id="bookGenre">
+                </div>
+                <div class="mb-3">
+                    <label for="bookDate" class="form-label">Published Date</label>
+                    <input type="date" class="form-control" id="bookDate">
+                </div>
+                <div class="mb-3">
+                    <label for="bookDate" class="form-label">Published Date</label>
+                    <input type="date" class="form-control" id="bookDate">
+                </div>
+                <div class="mb-3">
+                    <label for="bookDate" class="form-label">Published Date</label>
+                    <input type="date" class="form-control" id="bookDate">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">Save Book</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+

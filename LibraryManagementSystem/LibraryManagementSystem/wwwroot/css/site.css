@@ -1,0 +1,314 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.top-header {
+    height: 160px;
+    padding: 10px;
+    background-color: #f8f8f8;
+}
+
+    .top-header .row > div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+
+.top-header-img {
+    width: 130px;
+    height: 130px;
+    display: flex;
+}
+
+.top-header-buttons {
+    display: flex;
+    gap: 5px;
+    height: fit-content;
+    font-size: 18px;
+}
+
+    .top-header-buttons a {
+        text-decoration: none;
+        color: #111 !important;
+        font-weight: 700 !important;
+    }
+
+        .top-header-buttons a:hover {
+            color: cornflowerblue !important;
+        }
+
+.signUp-link::after {
+    display: inline-block;
+    content: "";
+    padding-left: 5px;
+    margin-right: 5px;
+    border-right: 2px solid black;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.navbar {
+    background-color: #3e8a0e;
+    color: white !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.container-fluid {
+    width: fit-content !important;
+    justify-content: end !important;
+    align-items: end !important;
+}
+
+.navbar .container-fluid a {
+    color: white !important;
+}
+
+.navbar-nav {
+    width: 100% !important;
+}
+
+.nav-item {
+    height: fit-content !important;
+    padding: 0 !important;
+    margin-right: 15px;
+    width: fit-content !important;
+}
+
+    .nav-item a {
+        height: fit-content !important;
+        padding: 0 5px !important;
+        width: fit-content !important;
+    }
+
+.current {
+    border-bottom: 2px solid #ffffff !important;
+}
+
+.dropdown {
+    margin-left: 20px !important;
+}
+
+    .dropdown button {
+        background-color: transparent;
+        border: 1px solid white !important;
+        color: white !important;
+        font-size: 20px;
+    }
+
+    .dropdown:focus {
+        outline: none !important;
+        border: none !important;
+    }
+
+
+
+/*
+Homepage style*/
+.carousel-container {
+    padding: 0;
+    margin: 0;
+    height: 600px;
+    width: 100%;
+}
+
+.carousel {
+    height: inherit !important;
+}
+
+.carousel-inner {
+    height: inherit !important;
+}
+
+.carousel-item {
+    height: inherit !important;
+}
+
+    .carousel-item img {
+        height: inherit !important;
+    }
+
+.carousel-indicators button {
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 50% !important;
+}
+
+
+.title {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+    .title h1 {
+        flex: 0 0 auto;
+        margin: 0 20px;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .title::before,
+    .title::after {
+        content: '';
+        flex: 1 1 auto;
+        border-bottom: 2px solid #ccc;
+    }
+
+.book-card {
+    transition: transform ease-out;
+    cursor: pointer;
+}
+
+
+
+
+    .book-card:hover {
+        transform: translateY(-10px);
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    .book-card img {
+        height: 250px !important;
+    }
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+}
+
+    .card-link:hover {
+        color: black;
+    }
+
+.card p {
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+
+
+
+
+/*Book details Inforamtion Style*/
+
+
+.book-detail-container {
+    height: 600px;
+    width: 800px;
+    display: flex;
+    column-gap: 30px;
+    font-size: 20px;
+}
+
+.book-detail-list {
+    padding: 0;
+    margin: 0;
+}
+
+.book-detail-thumbnail {
+    height: inherit;
+    width: 450px;
+}
+
+.book-detail-description {
+    width: 600px;
+}
+
+    .book-detail-description h4, ul {
+        width: inherit;
+    }
+
+.book-detail-thumbnail img {
+    height: inherit;
+    width: inherit;
+}
+
+.book-detail-list li {
+    list-style: none;
+}
+
+footer {
+    background-color: #f8f8f8 !important;
+}
+
+.footer div {
+    display: flex;
+    height: 80px !important;
+    column-gap: 20px !important;
+    font-size: 20px !important;
+    justify-content: center;
+    align-items: center;
+}
+
+    .footer div span::after {
+        content: "";
+        border-right: 2px solid gray !important;
+        padding-right: 10px;
+    }
+
+
+/*    Login */
+
+.login-card {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.form-control {
+    border-radius: 8px;
+}
+
+.btn-primary {
+    background-color: #2d2d82; /* Dark Blue */
+    border-color: #2d2d82;
+}
+
+    .btn-primary:hover {
+        background-color: #1a1a6e;
+        border-color: #1a1a6e;
+    }
+
+.btn-outline-success {
+    color: #28a745;
+    border-color: #28a745;
+}
+
+    .btn-outline-success:hover {
+        background-color: #28a745;
+        color: #fff;
+    }
+
+.login-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
