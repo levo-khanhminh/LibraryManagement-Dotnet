@@ -11,12 +11,10 @@ namespace LibraryManagementSystem.Controllers
       
         public async Task<IActionResult> Index()
         {
-           
+            // TempData["ActivePage"] = "Admin";
             return View();
         }
         
-        
-                     
         public IActionResult Create() => View();
 
         [HttpPost]

@@ -25,10 +25,8 @@ namespace LibraryManagementSystem.Models
         public bool IsActive { get; set; } = true;
 
         public string Avatar { get; set; }
-
-
-
-        public ICollection<Book> books=  new  List<Book>(); 
+        
+        public ICollection<Book> Books { get; set; }=  new  List<Book>(); 
         public Category()
         {
             

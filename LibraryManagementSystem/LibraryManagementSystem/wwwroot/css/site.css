@@ -256,6 +256,9 @@ Homepage style*/
 
 footer {
     background-color: #f8f8f8 !important;
+    bottom:0;
+    position: absolute;
+    width: 100%;
 }
 
 .footer div {
@@ -311,4 +314,11 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.current {
+    border-color: #ccc;
+    padding:10px;
+    border-width: 1.5px;
 }

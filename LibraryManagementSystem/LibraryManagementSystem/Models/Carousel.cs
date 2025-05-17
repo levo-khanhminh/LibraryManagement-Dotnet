@@ -24,7 +24,7 @@ namespace LibraryManagementSystem.Models
         [Required]
         public int Order { get; set; }
 
-        public bool IsActive { get; set; } = true;
+        public bool IsActive { get; set; } = false;
 
         [Required]
         public DateTime CreatedDate { get; set; } = DateTime.Now;

@@ -2397,18 +2397,6 @@
       "PackagePath": "staticwebassets/admin/assets/scss/variables/_variables.scss"
     },
     {
-      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/carousel_images/sample_carousel_1.jpeg",
-      "PackagePath": "staticwebassets/carousel_images/sample_carousel_1.jpeg"
-    },
-    {
-      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/carousel_images/sample_carousel_2.jpeg",
-      "PackagePath": "staticwebassets/carousel_images/sample_carousel_2.jpeg"
-    },
-    {
-      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/carousel_images/sample_carousel_3.webp",
-      "PackagePath": "staticwebassets/carousel_images/sample_carousel_3.webp"
-    },
-    {
       "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -2429,6 +2417,70 @@
       "PackagePath": "staticwebassets/images/becoming-book.jpg"
     },
     {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/1984-book.png",
+      "PackagePath": "staticwebassets/images/books/1984-book.png"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/IRobot.jpg",
+      "PackagePath": "staticwebassets/images/books/IRobot.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/clean_architecture.jpg",
+      "PackagePath": "staticwebassets/images/books/clean_architecture.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/clean_code.jpeg",
+      "PackagePath": "staticwebassets/images/books/clean_code.jpeg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/foundation.jpg",
+      "PackagePath": "staticwebassets/images/books/foundation.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/harry_potter_and_chamber_of_secrets.jpg",
+      "PackagePath": "staticwebassets/images/books/harry_potter_and_chamber_of_secrets.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/harry_potter_and_philosopher_stones.jpeg",
+      "PackagePath": "staticwebassets/images/books/harry_potter_and_philosopher_stones.jpeg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/space_odyssey.jpg",
+      "PackagePath": "staticwebassets/images/books/space_odyssey.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/books/theCPP_programing_language.jpeg",
+      "PackagePath": "staticwebassets/images/books/theCPP_programing_language.jpeg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/carousel_images/sample_carousel_1.jpeg",
+      "PackagePath": "staticwebassets/images/carousel_images/sample_carousel_1.jpeg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/carousel_images/sample_carousel_2.jpeg",
+      "PackagePath": "staticwebassets/images/carousel_images/sample_carousel_2.jpeg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/carousel_images/sample_carousel_3.webp",
+      "PackagePath": "staticwebassets/images/carousel_images/sample_carousel_3.webp"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/carousel_images/watch.html",
+      "PackagePath": "staticwebassets/images/carousel_images/watch.html"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/categories/fiction.png",
+      "PackagePath": "staticwebassets/images/categories/fiction.png"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/categories/programing_book.jpg",
+      "PackagePath": "staticwebassets/images/categories/programing_book.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/categories/science_fiction.jpeg",
+      "PackagePath": "staticwebassets/images/categories/science_fiction.jpeg"
+    },
+    {
       "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/educated-book.jpg",
       "PackagePath": "staticwebassets/images/educated-book.jpg"
     },
@@ -2439,6 +2491,10 @@
     {
       "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/parallelworlds-book.jpg",
       "PackagePath": "staticwebassets/images/parallelworlds-book.jpg"
+    },
+    {
+      "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/pdfs/sample.pdf",
+      "PackagePath": "staticwebassets/images/pdfs/sample.pdf"
     },
     {
       "Id": "/home/khanh-minh/Documents/GitHub/LibraryManagementSystem-V2/LibraryManagementSystem/LibraryManagementSystem/wwwroot/images/prideprejudice-book.jpg",

@@ -1,0 +1,35 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+@if (@ViewBag.Category != null)
+{
+    
+    <div class="w-100">
+        <div class="title">
+            <h1>@ViewBag.Category.Name</h1>
+        </div>
+        <div class="row w-100 mt-4">
+            @foreach(var book in ViewBag.Category.Books as List<Book>)
+            {
+                <div class="col-md-2 mr-4">
+                    <a  asp-controller="Book" asp-action="Detail" asp-route-id="@book.BookId" class="card-link">
+                        <div class="card book-card" style="width: 100%;">
+                            <img src="/images/@book.Avatar" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">@book.Title</h5>
+                                <p class="card-text mb-2">@(book.Author.FirstName + " " + book.Author.LastName ) </p>
+                                <a class="btn btn-success">Đọc sách online</a>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        
+        </div>
+   
+    </div>
+    
+}

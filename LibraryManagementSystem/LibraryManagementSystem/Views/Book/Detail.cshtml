@@ -22,7 +22,7 @@ else
         </div>
         <div class="book-detail-container">
             <div class="book-detail-thumbnail">
-                <img src="@book.ImageUrl" />
+                <img src="/images/@book.Avatar" />
             </div>
             <div class="book-detail-description">
                 <h4>@book.Title</h4>
@@ -33,7 +33,7 @@ else
                     </li>
                     <li class="book-detail-item">
                         <strong>Author: </strong>
-                        <span>@book.Author</span>
+                        <span>@(book.Author.FirstName + " " + book.Author.LastName )</span>
                     </li>
                     <li class="book-detail-item">
                         <strong>Publisher :</strong>
@@ -41,7 +41,7 @@ else
                     </li>
                     <li class="book-detail-item">
                         <strong>Published Date</strong>
-                        <span>@book.PublishedDate</span>
+                        <span>@book.PublishedYear</span>
                     </li>
                     <li class="book-detail-item">
                         <strong>Introduction : </strong>
@@ -50,7 +50,7 @@ else
                         </p>
                     </li>
                 </ul>
-                <button class="btn btn-success">Đọc sách online</button>
+                <button onclick="handleClickReadOnline(@book.BookId)" class="btn btn-success">Đọc sách online</button>
             </div>
         </div>
     </div>

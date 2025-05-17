@@ -18,8 +18,12 @@
 
     <ItemGroup>
       <Folder Include="wwwroot\admin\" />
-      <Folder Include="wwwroot\carousel_images\" />
+      <Folder Include="wwwroot\images\pdfs\" />
       <Folder Include="wwwroot\NewFolder\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Category\Books.cshtml" />
     </ItemGroup>
 
 </Project>
